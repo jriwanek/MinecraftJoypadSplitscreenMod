@@ -15,10 +15,6 @@ out
 
 # gradle
 build
-gradle
-gradlew
-gradlew.bat
-gradle.properties
 .gradle
 
 # other
